@@ -45,13 +45,13 @@ body {
     z-index: -1;
 }
 
-.booking-form .form-header {
+.booking-form .formTitle {
     text-align: center;
     position: relative;
     margin-bottom: 30px;
 }
 
-.booking-form .form-header h1 {
+.booking-form .formTitle h1 {
     font-weight: 700;
     text-transform: capitalize;
     font-size: 32px;
@@ -64,7 +64,7 @@ body {
     margin-bottom: 30px;
 }
 
-.booking-form .form-control {
+.booking-form .form-group{
     background-color: rgba(255, 255, 255, 0.2);
     height: 60px;
     padding: 0px 25px;
@@ -77,19 +77,19 @@ body {
     transition: 0.2s;
 }
 
-.booking-form .form-control::-webkit-input-placeholder {
+.booking-form .form-group::-webkit-input-placeholder {
     color: rgba(255, 255, 255, 0.5);
 }
 
-.booking-form .form-control:-ms-input-placeholder {
+.booking-form .form-group:-ms-input-placeholder {
     color: rgba(255, 255, 255, 0.5);
 }
 
-.booking-form .form-control::placeholder {
+.booking-form .form-group::placeholder {
     color: rgba(255, 255, 255, 0.5);
 }
 
-.booking-form .form-control:focus {
+.booking-form .form-group:focus {
     -webkit-box-shadow: 0px 0px 0px 2px #ff8846;
     box-shadow: 0px 0px 0px 2px #ff8846;
 }
@@ -168,7 +168,7 @@ body {
     top: 10px;
 }
 
-.booking-form .submit-btn {
+.booking-form .submitBtn {
     color: #fff;
     background-color: #e35e0a;
     font-weight: 700;
@@ -184,8 +184,8 @@ body {
     transition: 0.2s all;
 }
 
-.booking-form .submit-btn:hover,
-.booking-form .submit-btn:focus {
+.booking-form .submitBtn:hover,
+.booking-form .submitBtn:focus {
     opacity: 0.9;
 }
 

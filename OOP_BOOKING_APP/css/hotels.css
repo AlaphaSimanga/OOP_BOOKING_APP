@@ -1,4 +1,4 @@
-/*.col-md-4{
+.col-md-4{
     margin-top: 50%;
 }
 
@@ -12,12 +12,12 @@
 
 .col-md-4{
     height: 100%;
-}*/
+}
 
-h3{
+/*h3{
     color: #fff;
     text-align: center;
-}
+}*/
 
 .navbar-toggler-icon {
     background-color: #202A44;
@@ -54,11 +54,11 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
-.booking-form {
+/*.booking-form {
     position: relative;
     max-width: 442px;
     width: 100%;
-    /*margin: -100px;*/
+    /*margin: -100px;
     margin: auto;
     padding: 40px;
     overflow: hidden;
@@ -222,15 +222,15 @@ body {
 .booking-form .submit-btn:hover,
 .booking-form .submit-btn:focus {
     opacity: 0.9;
-}
+}*/
 
 h6{
     color: #B3B3B3;
 }
 
-/*p{
+p{
     color: green;
-}*/
+}
 
 .pictures{
     margin-top: 80px;

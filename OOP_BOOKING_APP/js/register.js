@@ -47,8 +47,8 @@ new Vue({
         localStorage.setItem('pw', this.input.password);
         //An alert message to pop up when the user has successfully created their aaccount
         alert('Your account has been successfully created');
-        //When the user clicks on sign up button, they should be directed to the log in page
-        location.href = "login.html";
+        //When the user clicks on sign up button, they should be directed to the login page
+        location.href='login.php';
       }
     }
   }
