@@ -63,12 +63,12 @@
 
         <div class="jumbotron">
         <div class="w3-content w3-section">
-            <img class="mySlides w3-animate-fading" src="images/home_gallary/1.jpg" style="width:100%; height:450px;">
-            <img class="mySlides w3-animate-fading" src="images/home_gallary/2.jpg" style="width:100%; height:450px;">
-            <img class="mySlides w3-animate-fading" src="images/home_gallary/3.jpg" style="width:100%; height:450px;">
-            <img class="mySlides w3-animate-fading" src="images/home_gallary/4.jpg" style="width:100%; height:450px;">
-            <img class="mySlides w3-animate-fading" src="images/home_gallary/5.jpg" style="width:100%; height:450px;">
-            <img class="mySlides w3-animate-fading" src="images/home_gallary/6.jpg" style="width:100%; height:450px;">
+            <img class="mySlides w3-animate-fading" src="../images/home_gallary/1.jpg" style="width:100%; height:450px;">
+            <img class="mySlides w3-animate-fading" src="../images/home_gallary/2.jpg" style="width:100%; height:450px;">
+            <img class="mySlides w3-animate-fading" src="../images/home_gallary/3.jpg" style="width:100%; height:450px;">
+            <img class="mySlides w3-animate-fading" src="../images/home_gallary/4.jpg" style="width:100%; height:450px;">
+            <img class="mySlides w3-animate-fading" src="../images/home_gallary/5.jpg" style="width:100%; height:450px;">
+            <img class="mySlides w3-animate-fading" src="../images/home_gallary/6.jpg" style="width:100%; height:450px;">
         </div>    
         </div>
         <hr>
